@@ -1,0 +1,1 @@
+Projeto simples de redes neurais para resolução de portas logicas
